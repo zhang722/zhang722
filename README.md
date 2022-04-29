@@ -7,7 +7,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhang722/count.svg) visito
 
 # I'm Zhang722 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🌱 I’m currently learning **SLAM and DeepLearning**
+- 🌱 I’m currently learning **SLAM**
 - 🤔 I love **Reading, Coding**
 - 📫 How to reach me: **1180800923@stu.hit.edu.cn**
 
