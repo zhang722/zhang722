@@ -9,7 +9,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/zhang722/count.svg) visito
 
 - 🌱 I’m currently learning **SLAM**
 - 🤔 I love **Reading, Coding**
-- 📫 How to reach me: **1180800923@stu.hit.edu.cn**
 
 # About My Github
 
